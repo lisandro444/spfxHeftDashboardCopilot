@@ -7,3 +7,10 @@ export interface ITeamMember {
   email: string;
   active: boolean;
 }
+
+export interface ITeamMemberFormData {
+  displayName: string;
+  role: string;
+  email: string;
+  active: boolean;
+}
