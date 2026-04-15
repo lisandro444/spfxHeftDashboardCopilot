@@ -1,0 +1,6 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "initialPage": "https://lisandrorossi444.sharepoint.com/sites/m365appbuilder-team-status-hub-3406/_layouts/workbench.aspx"
+}

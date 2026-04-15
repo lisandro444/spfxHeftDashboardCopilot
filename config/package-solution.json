@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dashboard-1-heft-client-side-solution",
+    "id": "43f6f95a-8c27-4ea1-8c3d-9355b87c10af",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.22.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Dashboard1Heft description"
+      },
+      "longDescription": {
+        "default": "Dashboard1Heft description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "dashboard-1-heft Feature",
+        "description": "The feature that activates elements of the dashboard-1-heft solution.",
+        "id": "2e07b42d-6158-439a-b094-802589d62a54",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/dashboard-1-heft.sppkg"
+  }
+}

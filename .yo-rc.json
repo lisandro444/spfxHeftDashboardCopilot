@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "25.9.0",
+    "sdksVersions": {},
+    "version": "1.22.2",
+    "libraryName": "dashboard-1-heft",
+    "libraryId": "43f6f95a-8c27-4ea1-8c3d-9355b87c10af",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Dashboard1Heft",
+    "solutionShortDescription": "Dashboard1Heft description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
